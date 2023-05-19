@@ -1,5 +1,7 @@
 # hydromet-data
 
+Just wanted to collect and visualize some water datas!
+
  Parameter Description
 
  AF        Reservoir Storage Content (acre-feet)                               
@@ -9,3 +11,5 @@
  QD        Daily Mean Total Discharge (cfs)                                    
  SE        Snow Water Equivalent (inches)                                      
  SE_PCT    Snow Water Equivalent Percent of Average (percent)     
+
+Docs: https://www.usbr.gov/gp/hydromet/automated_retrieval.pdf#Archive%20Data%20Request%20Format
